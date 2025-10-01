@@ -48,7 +48,9 @@ Throughout this project, I gained hands-on experience in:
 
 📢 With Flight Radar, I’ve brought a **fresh perspective to the aviation world**!  
 
- # Preview 📹
+ # Preview  📹
+ ![Flight Radar](https://github.com/user-attachments/assets/1f10ded1-44c6-4aab-878f-04e88522e881)
+
 
 ## 📬 Contact  
 📩 **Email:** gunaydinsemra34@gmail.com
